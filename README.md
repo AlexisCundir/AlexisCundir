@@ -71,7 +71,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=arduino" height="49" alt="arduino logo"  />
 </div>
-
+<br>
   <a href="https://www.linkedin.com/in/alexis-cundir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=flat" height="42" alt="linkedin logo"  />
   </a>
