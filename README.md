@@ -32,7 +32,7 @@
 
 ###
 
-<div data-importer="socials" align="right">
+<div data-importer="socials" align="center">
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=py" height="49" alt="python logo"  />
   <img width="16" />
