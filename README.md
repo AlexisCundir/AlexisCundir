@@ -1,4 +1,3 @@
-## Hi there 👋
 # 🚀 Welcome to my GitHub Profile!
 
 ## **Hi 👋, I'm Alexis!**
@@ -34,7 +33,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://i-download.imgflip.com/b3y1ph.gif"  />
+<img data-importer="image" align="right" height="200" src="assets/pochita-dev.gif"  />
 
 ###
 
@@ -109,7 +108,7 @@
 ###
 
 <div align="center">
-<img data-importer="image" align="center" width="100%" src="https://i-download.imgflip.com/b3y3pd.gif"  />
+<img data-importer="image" align="center" width="100%" src="assets/footer-pochita-walk.gif"  />
 </div>
 
 ###
