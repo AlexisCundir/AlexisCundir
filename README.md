@@ -28,7 +28,7 @@
 
 ##
 
-<img data-importer="image" align="right" height="200" src="assets/pochita-dev.gif"  />
+<img data-importer="image" align="right" height="220" src="assets/pochita-dev.gif"  />
 
 ###
 
@@ -76,7 +76,7 @@
   </a>
 </div>
 
-###
+##
 
 <div data-importer="music" align="center">
   <img data-importer="image" align="left" width="54%" height="110" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"  />
