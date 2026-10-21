@@ -84,7 +84,7 @@
 ###
 
 <div data-importer="music" align="center">
-  <img data-importer="image" align="left" width="54%" height="110" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"  />
+  <img data-importer="image" align="left" width="54%" height="110" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"  />
   <a href="https://open.spotify.com/user/w1v92biqquug0iqdwzcfm8u2x">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=w1v92biqquug0iqdwzcfm8u2x&amp;count=1" alt="Spotify recently played" width="43%" />
 </a>
@@ -94,7 +94,7 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/AlexisCundir/AlexisCundir/snake-output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-<img data-importer="image" align="center" width="100%" src="https://i-download.imgflip.com/b3y3pd.gif"  />
+<img data-importer="image" align="center" width="100%" src="assets/footer-pochita-walk.gif"  />
 </div>
 
 ###
