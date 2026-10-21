@@ -26,12 +26,7 @@
 
 </details>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexisCundir&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/AlexisCundir/AlexisCundir/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+##
 
 <img data-importer="image" align="right" height="200" src="assets/pochita-dev.gif"  />
 
@@ -89,6 +84,13 @@
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=w1v92biqquug0iqdwzcfm8u2x&amp;count=1" alt="Spotify recently played" width="43%" />
 </a>
 
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=AlexisCundir&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/AlexisCundir/AlexisCundir/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/AlexisCundir/AlexisCundir/snake-output/snake.svg" alt="Snake animation" />
